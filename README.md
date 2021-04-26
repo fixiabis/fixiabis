@@ -2,6 +2,7 @@
 <h3 align="center">A frontend developer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fixiabis&label=Profile%20views&color=0e75b6&style=flat" alt="fixiabis" /> </p>
+![codewars badge](https://www.codewars.com/users/fixiabis/badges/micro)
 
 - 📫 How to reach me **fixiabis@gmail.com**
 
@@ -11,5 +12,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fixiabis&show_icons=true&locale=en&layout=compact" alt="fixiabis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fixiabis&" alt="fixiabis" /></p>
-
-!(codewars badge)[https://www.codewars.com/users/fixiabis/badges/micro]
